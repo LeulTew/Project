@@ -1,0 +1,155 @@
+C:\Users\nathn\Desktop\proj\Login\Login\bin\Debug\Login.exe.config
+C:\Users\nathn\Desktop\proj\Login\Login\bin\Debug\Login.exe
+C:\Users\nathn\Desktop\proj\Login\Login\bin\Debug\Login.pdb
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.Main.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.prof.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.profedit.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.Profile.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.exe
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.pdb
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.Item.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.Itemcard.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.splash.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.LogReg.resources
+C:\Users\nathn\Desktop\proj\Login\Login\bin\Debug\AdminForms\Amain.resx
+C:\Users\nathn\Desktop\proj\Login\Login\bin\Debug\AdminForms\Amain.cs
+C:\Users\nathn\Desktop\proj\Login\Login\bin\Debug\AdminForms\Amain.Designer.cs
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.AdminForms.Amain.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.AdminForms.Userm.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.AdminForms.Company.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.AdminForms.ItemM.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.AdminForms.Reportm.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.Homepage.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.bill.resources
+C:\Users\nathn\Desktop\proj\Login\Login\obj\Debug\Login.Order.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\bin\Debug\AdminForms\Amain.resx
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\bin\Debug\AdminForms\Amain.cs
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\bin\Debug\AdminForms\Amain.Designer.cs
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\bin\Debug\Login.exe
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\bin\Debug\Login.pdb
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.AdminForms.Amain.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.AdminForms.Company.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.AdminForms.ItemM.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.AdminForms.Reportm.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.AdminForms.Userm.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.bill.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.Homepage.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.Item.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.Itemcard.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.LogReg.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.Main.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.Order.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.prof.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.profedit.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.Profile.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.splash.resources
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.exe
+C:\Users\Leul\Downloads\Telegram Desktop\Sophmore\SEM 1\Proj\Login\Login\obj\Debug\Login.pdb
+C:\Users\nathn\Desktop\Login - Copy\Login\bin\Debug\AdminForms\Amain.resx
+C:\Users\nathn\Desktop\Login - Copy\Login\bin\Debug\AdminForms\Amain.cs
+C:\Users\nathn\Desktop\Login - Copy\Login\bin\Debug\AdminForms\Amain.Designer.cs
+C:\Users\nathn\Desktop\Login - Copy\Login\bin\Debug\Login.exe.config
+C:\Users\nathn\Desktop\Login - Copy\Login\bin\Debug\Login.exe
+C:\Users\nathn\Desktop\Login - Copy\Login\bin\Debug\Login.pdb
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.AdminForms.Amain.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.AdminForms.Company.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.AdminForms.ItemM.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.AdminForms.Reportm.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.AdminForms.Userm.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.bill.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.Form1.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.Homepage.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.Item.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.Itemcard.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.Login.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.LogReg.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.Main.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.Order.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.prof.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.profedit.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.Profile.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.splash.resources
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.exe
+C:\Users\nathn\Desktop\Login - Copy\Login\obj\Debug\Login.pdb
+C:\Users\nathn\Desktop\The Hive\Login\bin\Debug\AdminForms\Amain.resx
+C:\Users\nathn\Desktop\The Hive\Login\bin\Debug\AdminForms\Amain.cs
+C:\Users\nathn\Desktop\The Hive\Login\bin\Debug\AdminForms\Amain.Designer.cs
+C:\Users\nathn\Desktop\The Hive\Login\bin\Debug\Login.exe.config
+C:\Users\nathn\Desktop\The Hive\Login\bin\Debug\Login.exe
+C:\Users\nathn\Desktop\The Hive\Login\bin\Debug\Login.pdb
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.AdminForms.Amain.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.AdminForms.Company.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.AdminForms.ItemM.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.AdminForms.Reportm.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.AdminForms.Userm.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.bill.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.Form1.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.Homepage.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.Item.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.Itemcard.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.Login.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.LogReg.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.Main.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.Order.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.prof.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.profedit.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.Profile.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.splash.resources
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.exe
+C:\Users\nathn\Desktop\The Hive\Login\obj\Debug\Login.pdb
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\bin\Debug\AdminForms\Amain.resx
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\bin\Debug\AdminForms\Amain.cs
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\bin\Debug\AdminForms\Amain.Designer.cs
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\bin\Debug\Login.exe.config
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\bin\Debug\Login.exe
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\bin\Debug\Login.pdb
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.AdminForms.Amain.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.AdminForms.Company.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.AdminForms.ItemM.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.AdminForms.Reportm.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.AdminForms.Userm.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.bill.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.Form1.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.Homepage.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.Item.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.Itemcard.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.Login.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.LogReg.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.Main.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.Order.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.prof.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.profedit.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.Profile.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.splash.resources
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.exe
+C:\Users\nathn\Desktop\Backup\Assignment\The Hive\Login\obj\Debug\Login.pdb
