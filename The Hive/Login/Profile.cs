@@ -9,7 +9,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Text.RegularExpressions;
-using Login.Properties;
 
 namespace Login
 {
@@ -20,8 +19,7 @@ namespace Login
             InitializeComponent();
         }
         string pid = "";
-        Image male = Resources.malee;
-        Image female = Resources.femaleuser;
+
         private void button2_Click(object sender, EventArgs e)
         {
             this.Close();
@@ -59,7 +57,6 @@ namespace Login
             button3.Visible = false;
             button4.Visible = false;
             displayprof();
-
         }
         private void button4_Click(object sender, EventArgs e)
         {
@@ -155,16 +152,6 @@ namespace Login
                     epUser.SetError(txtUN, "UserName Required");
                 };
             }
-            //Pass
-            if (string.IsNullOrEmpty(txtPass.Text))
-            {
-                isVal = false;
-                epPass.SetError(txtPass, "Password Required");
-            }
-            else
-                epPass.Clear();
-
-
             if (isVal)
             {
                 User u1 = new User
@@ -225,16 +212,6 @@ namespace Login
             pid = labelID.Text;
             label25.Text = pid;
             DBcon.con().Close();
-
-            if (labelGender.Text == "Male")
-            {
-                pictureBox1.Image = male;
-            }
-            else
-            {
-                pictureBox1.Image = female;
-            }
-            
         }
 
         private void showPass_CheckedChanged(object sender, EventArgs e)

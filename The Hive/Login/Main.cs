@@ -48,7 +48,7 @@ namespace Login
                 button4.Text = "     Shop";
                 button5.Width = 100;
                 button5.ImageAlign = ContentAlignment.MiddleLeft;
-                button5.Text = "     Logout";
+                button5.Text = "     Exit";
                 x++;
             }
             else
@@ -75,8 +75,6 @@ namespace Login
 
         private void button5_Click(object sender, EventArgs e)
         {
-            Login ll = new Login();
-            ll.Show();
             this.Close();
         }
 
