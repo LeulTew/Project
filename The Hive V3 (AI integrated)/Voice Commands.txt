@@ -1,0 +1,7 @@
+Hello
+Mark
+Open Item
+I want to buy medicine
+Exit
+Close
+I want to see my profile
