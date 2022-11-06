@@ -123,6 +123,7 @@ namespace Login
             }
             else if (!Regex.IsMatch(pass.Text, "(?!^[0-9]*$)(?!^[a-zA-Z]*$)^([a-zA-Z0-9]{8,15})$"))
             {
+                isVal = false;
                 MessageBox.Show("Password must be atleast 8 to 15 characters. It contains atleast one Upper case and numbers.", "Invalid", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 pass.Focus();
                 epPass.SetError(pass, "Valid Password Required");
