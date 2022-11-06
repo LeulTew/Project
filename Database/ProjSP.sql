@@ -381,6 +381,8 @@ BEGIN
 	UPDATE ItemOrder
 	SET Quantity = (SELECT OldQuantity FROM ChangeLog
 				WHERE changeTime = @ChangeDate)
+	, Amount = (SELECT OldAmount FROM ChangeLog
+				WHERE changeTime = @ChangeDate)
 	WHERE OrderID = (SELECT OrderID FROM ChangeLog
 					WHERE changeTime = @ChangeDate)
 	DELETE FROM ChangeLog
